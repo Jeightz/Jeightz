@@ -8,14 +8,17 @@ I enjoy learning new things,Building small project and Improving step by step
 
 ## 🛠 Tech & Tools
 
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![cpp](https://github.com/therealsreehari/Lenguajes_badges/raw/main/badges/cpp.gif)
+![java](https://github.com/therealsreehari/Lenguajes_badges/raw/main/badges/java.gif)
+![python](https://github.com/therealsreehari/Lenguajes_badges/raw/main/badges/python.gif)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![mysql](https://github.com/therealsreehari/Lenguajes_badges/raw/main/badges/mysql.gif)
+![sqlite](https://github.com/therealsreehari/Lenguajes_badges/raw/main/badges/sqlite.gif)
 
+## 🔭 What I'm Working On
+- Improving my game development knowledge 
+- Adding scoring and new features to my current project  
+- Practicing cleaner and more readable code
 
 ## 🎯 Goals
 - Improve my Coding
